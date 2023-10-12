@@ -184,3 +184,6 @@ SELECT product_name, ROUND(price) FROM products;
 SELECT product_name
 FROM products
 WHERE INSTR(product_name, '폰') >0;
+
+
+
